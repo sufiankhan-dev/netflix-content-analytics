@@ -8,6 +8,9 @@ The project focuses on cleaning and transforming Netflix data, performing SQL ba
 
 **[View Interactive Netflix Analytics Dashboard](https://prod-in-a.online.tableau.com/t/sufiancoding-3569740d70/views/NetflixAnalyticsProject/NetflixAnalyticsDashboard)**
 
+<img width="2479" height="1171" alt="image" src="https://github.com/user-attachments/assets/d39bea7d-5ec7-4fa2-8082-166f229428d4" />
+
+
 ## Dataset
 
 The project uses the Netflix Movies and TV Shows dataset from Kaggle.
